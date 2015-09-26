@@ -1,0 +1,865 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content="Yxeuz9eaK7lH0t5-S5-94-4tojONY1bXWGcBhQGfPME"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Social Boom">
+    <meta name="author" content="Zili Zhang">
+
+    <title>SocialBoom</title>
+    <link rel="shortcut icon" href="img/logo.png">
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <img src="img/logo.png" alt="Logo" height="50px" align="left">
+                <a class="navbar-brand" href="#page-top">
+                     <span class="light">&nbsp;Social</span> Boom
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a href="#services">How it works</a>
+                    </li>
+                    <li>
+                        <a href="presentation.html">Presentation</a>
+                    </li>
+                    <li>
+                        <a  href="#contact">Contact</a>
+                    </li>
+                    <li>
+                        <a  href="http://cp.socialboom.ca/login">Login</a>
+                    </li>
+                    <li>
+                        <a  href="fr.html"><font color= "#FFD700">EN|</font>FR</a>
+                    </li>
+                    <li>
+                        <a class="btn-light" data-toggle="modal" data-target="#register"><b>Apply for connection</b></a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Header -->
+    <header id="top" class="header">
+        <div class="text-vertical-center">
+            <br><br>
+            <h1>Social Boom</h1>
+            <h2> <i class="fa fa-wifi"></i> WIFI can do more than you think</h2>
+            <br>
+            <a href="#services" class="btn btn-circle page-scroll">
+                 <i class="fa fa-angle-double-down animated"></i>
+            </a>
+        </div>
+    </header>
+
+    <!-- Services -->
+    <section id="services" class="services bg-primary">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <h2>HOW IT WORKS? </h2>
+                    <hr class="small">
+                    <div class="row">
+                        <div class="col-md-7 col-xs-12">
+                            <br>
+                            <div class="col-md-12 col-xs-12">
+                            <h3>Your client connects to the WIFI</h3>
+                            </div>
+                            <div class="col-md-12 col-xs-12 arrow">
+                            <i class="fa fa-chevron-down"></i>
+                            </div>
+                            <div class="col-md-12 col-xs-12">
+                            <h3>They choose a social network to obtain internet access</h3>
+                            </div>
+                            <div class="col-md-12 col-xs-12 arrow">
+                            <i class="fa fa-chevron-down"></i>
+                            </div>
+                            <div class="col-md-12 col-xs-12">
+                            <h3>They post your advertisement to all their friends all over the world and follow you on social media</h3>
+                            </div>
+                        </div>
+                        <div class ="col-md-5 col-xs-12">
+                            <img src="img/how1.png" width="80%" height="auto" alt=""/>
+                            <img src="img/how2.png" width="70%" height="auto" alt=""/>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.col-lg-10 -->
+            </div>
+            <!-- /.row -->
+            <div class="col-md 12">
+                <br>
+                    <p>By logging in through any social network or by password, or by sharing an advertising post, customers DO NOT share their location with anyone and DO NOT give us any private information</p>
+            </div>
+        </div>
+        <!-- /.container -->
+    </section>
+    
+    <!--Advantage-->
+    <section class="advantage">
+        <div class="row text-center">
+            <div class="col-lg-10 col-lg-offset-1">
+                    <h2>ADVANTAGES</h2>
+                    <hr class="small">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-xs-6">
+                <div class ="col-md-2 advantage-item">
+                    <span class="fa-stack fa-2x">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-stack-1x" style = "color : #e5c100"><b>1</b></i>
+                    </span>
+                </div>
+                <div class="col-md-10 ">
+                    <h4>All clients' friends will see your advertisement(from 30,000 people per month)</h4>
+                </div>
+            </div>   
+            <div class="col-md-4 col-xs-6">
+                <div class ="col-md-2 advantage-item">
+                    <span class="fa-stack fa-2x">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-stack-1x" style = "color : #e5c100"><b>2</b></i>
+                    </span>
+                </div>
+                <div class="col-md-10 ">
+                    <h4>&nbsp;&nbsp;Increase the amount of new guests
+                        <br><br><br><br></h4>
+                </div>
+            </div>   
+            <div class="col-md-4 col-xs-6">
+                 <div class ="col-md-2 advantage-item">
+                    <span class="fa-stack fa-2x">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-stack-1x" style = "color : #e5c100"><b>3</b></i>
+                    </span>
+                </div>
+                <div class="col-md-10">
+                    <h4>&nbsp;&nbsp;&nbsp;&nbsp;Guests will follow you on social networks<br><br><br><br></h4>
+                </div>
+            </div>   
+            <div class="col-md-4 col-xs-6">
+                <div class ="col-md-2 advantage-item">
+                    <span class="fa-stack fa-2x">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-stack-1x" style = "color : #e5c100"><b>4</b></i>
+                    </span>
+                </div>
+                <div class="col-md-10">
+                    <h4>&nbsp;&nbsp;Guests will receive news about your institution<br><br><br><br></h4>
+                </div>
+            </div>   
+            <div class="col-md-4 col-xs-6">
+                <div class ="col-md-2 advantage-item">
+                    <span class="fa-stack fa-2x">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-stack-1x" style = "color : #e5c100"><b>5</b></i>
+                    </span>
+                </div>
+                <div class="col-md-10">
+                    <h4>&nbsp;&nbsp;&nbsp;You always have access to all information about your clients</h4>
+                </div>
+            </div>   
+            <div class="col-md-4 col-xs-6">
+                <div class ="col-md-2 advantage-item">
+                    <span class="fa-stack fa-2x">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-stack-1x" style = "color : #e5c100"><b>6</b></i>
+                    </span>
+                </div>
+                <div class="col-md-10">
+                    <h4>&nbsp;&nbsp;&nbsp;You have the control of the return of your guests</h4>
+                </div>
+            </div>   
+        </div>
+    </section>
+    <!--Benefit-->
+    <section class = "benefit">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-sm-12">
+                    <img src="img/example.png" height="600px" alt=""/>
+                </div>
+                 <div class="col-lg-7 col-sm-12">
+                        <br>
+                        <h1 class="highlight">Clients will advertise your company and your promotions to their friends all over the world<br><br></h1   >
+                        <h3>90% of consumers trust the recommendations of friends, more than the classical advertising!<br><br><br></h3>
+                        <h3>Visitors posts on social networks will bring you more than 10,000  views of advertising posts every day!</h3>
+                        <br><br>
+                        <a class="btn-light btn-lg" data-toggle="modal" data-target="#register">Apply for Connection </a>
+                </div>
+  
+            </div>
+        </div>
+    </section>
+
+    <!--Partner-->
+    <section class = "partner">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 text-center">
+                    <h2><b>1117 COMPANIES HAVE CHOSEN OUR SERVICE</b></h2>
+                   <br>
+                </div>
+                 <div class="col-lg-12  col-xs-12">
+                     <div class="col-md-7 col-xs-7">
+                        <img src="img/client.png"  width="100%" height="auto" alt=""/>
+                     </div>
+                     <div class="col-md-5 col-xs-5">
+                        <img src="img/client2.png"  width="90%" height="auto" alt=""/>
+                     </div>
+                </div>
+                <br><br><br>
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+
+    <!-- About Us -->
+    <section id = "about" class = "about">
+        <div class="container">
+            <div class="row">
+                <br><br><br>
+                <div class="col-lg-10 col-lg-offset-1 text-center">
+                    <h2>ABOUT US </h2>
+                    <hr class="small">
+                </div>
+                 <div class="col-lg-10 col-lg-offset-1 col-xs-12">
+                        <h4 class="big">Our company was founded in 2012 in Europe, under the name Hot-WIFI. Right now, we have over 1100 clients, in different regions : Europe, Russia, Asia, and North America. We are the number 1 and the only company who are able to provide this service and all rights are reserved. For more information about the company, please<a href="#contact"> email or call </a>us<br><br><br><br><br><br><br><br></h4>
+                </div>
+  
+            </div>
+        </div>
+    </section>
+
+    <!-- locations -->
+    <section id = "locations" class="locations">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-12 col-xs-12 clickable">
+                    <br>
+                    <!-- map -->
+                    <img id="map" src="img/canada.jpg" usemap="#canadamap" width="100%" height="auto" alt=""/>
+                    <map id="canadamap" name="canadamap">
+                    <area title="British Columbia" alt="British Columbia" coords="27,51,208,53,188,215,206,236,226,265,239,295,144,297,133,313,104,291,85,264" shape="poly" data-toggle="modal" data-target="#britishcolumbia" />
+                    <area title="Alberta" alt="Alberta" coords="212,53,319,51,310,295,242,296,221,246,203,213,196,205" shape="poly" data-toggle="modal" data-target="#alberta" />
+                    <area title="Saskatchewan" alt="SK" coords="326,51,412,51,415,295,315,295" shape="poly" data-toggle="modal" data-target="#saskatchewan" />
+                    <area title="Manitoba" alt="Manitoba" coords="420,54,518,55,509,91,522,106,523,133,516,139,530,139,543,131,559,140,558,146,475,205,470,295,423,296" shape="poly" data-toggle="modal" data-target="#manitoba" />
+                    <area title="Ontario" alt="Ontario" coords="565,144,578,159,603,176,630,175,627,188,631,198,627,210,630,230,644,246,654,252,656,298,676,317,686,329,689,344,698,350,667,366,645,378,644,390,632,399,617,399,605,405,597,356,626,347,607,339,594,335,582,319,567,302,550,293,529,315,477,299,480,210" shape="poly" data-toggle="modal" data-target="#ontario" />
+                    <area title="Quebec" alt="Quebec" coords="706,18,709,39,701,56,708,81,686,99,703,129,707,152,687,169,661,182,669,206,664,228,666,252,658,255,663,296,690,327,695,342,706,351,724,350,730,367,744,381,745,397,783,386,807,373,828,362,832,319,830,284,861,258,898,237,912,226,796,208,801,176,833,173,837,130,839,102,838,62,804,92,788,62,791,51,753,20" shape="poly" data-toggle="modal" data-target="#quebec"/>
+                    <p><!-- end map --></p>
+                    <br>
+                        </div>
+                    </div>
+                    <!-- /.row (nested) -->
+                </div>
+                <!-- /.col-lg-10 -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <aside id = "contact" class="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <br><br>
+                    <h3>Any questions? Contact Us</h3>
+                    <a class="btn btn-lg btn-light" data-toggle="modal" data-target="#IT">IT support</a>
+                    <a class="btn btn-lg btn-dark" data-toggle="modal" data-target="#Marketing"> Marketing Sales </a>
+                    <br><br><br>
+                </div>
+            </div>
+        </div>
+    </aside>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 text-center">
+                    <h3><strong>Social Boom</strong>
+                    </h3>
+                    <h4 class="contactinfo"><p>Montreal, QC Canada</p>
+                     <ul class="list-unstyled" style="display: inline-block;text-align: left;">
+                            <li><i class="fa fa-phone fa-fw"></i> (514) 402-2276<b> &nbsp;&nbsp;Oleksandr Sinitsyn </b></li>
+                            <li><i class="fa fa-phone fa-fw"></i> (438) 989-4485<b> &nbsp;&nbsp;Georgy Venik</b></li>
+                    </ul>
+                    </h4>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="https://www.facebook.com/SocialBoomCA"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="mailto:info@socialboom.ca"><i class="fa fa-envelope-o fa-fw fa-3x"></i></a>
+                        </li>
+                        <li>
+                            <a href="skype:socialboominc?call"><i class="fa fa-skype fa-fw fa-3x"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <section class="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 text-center">
+                    <br>
+                    <p class="text-muted">
+                        Copyright &copy; SocialBoom 2015. All Rights Reserved</p>
+                    <p><a href="privacy.html">Privacy Policy</a></p>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Modal -->
+    <div class = "modal fade" id ="register" role ="dialog">
+        <div class ="modal-dialog">
+            <div class = "modal-content">
+                <div class ="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h3>Apply for connection</h3>
+                    <p></p>
+                </div>
+                <div class = "modal-body">
+                    <form method="post" id="apply">
+                        <fieldset>
+                            <input type="text" class="input-large" id="name" name="name" placeholder="What is your name?" required="required">
+                            <input type="text" class="input-large" id="company" name="company" placeholder="The name of your company"><br><br>
+                            <input type="text" class="input-large" id="phone" name="phone" placeholder="Phone number">
+                            <input type="text" class="input-large" id="email" name="email" placeholder="Email" required="required"><br><br>
+                            <input type="text" class="input-large" id="address" name="address" placeholder="Address" required="required" style='width:100%'><br><br>
+                            <textarea class="input-xlarge" id="Message" name="Message" placeholder="Messages" style='width:100%'></textarea><br><br>
+                            <center><input type ="submit" class="btn btn-light"></center>
+                        </fieldset>
+                    </form>
+                </div>
+                <hr class="small">
+                <div class="footer text-center">
+                    <ul class="list-unstyled" style="display: inline-block;text-align: left;">
+                            <li><i class="fa fa-phone fa-fw"></i> (514) 402-2276<b> &nbsp;&nbsp;Oleksandr Sinitsyn </b></li>
+                            <li><i class="fa fa-phone fa-fw"></i> (438) 989-4485<b> &nbsp;&nbsp;Georgy Venik</b></li>
+                            <li><i class="fa fa-envelope-o fa-fw"></i><b>&nbsp;&nbsp;info@socialboom.ca</b></li>
+                            <li><i class="fa fa-skype fa-fw"></i><b>&nbsp;&nbsp;socialboominc</b></li>
+                    </ul>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <div class = "modal fade" id ="IT" role ="dialog">
+        <div class ="modal-dialog">
+            <div class = "modal-content">
+                <div class ="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h3>IT Support</h3>
+                    <p>We will contact you as soon as possible</p>
+                </div>
+                <div class = "modal-body">
+                    <form method="post" id="itSupport">
+                        <fieldset>
+                            <input type="text" class="input-large" id="tname" name="name" placeholder="What is your name?" required="required">
+                            <input type="text" class="input-large" id="tcompany" name="company" placeholder="The name of your company"><br><br>
+                            <input type="text" class="input-large" id="tphone" name="phone" placeholder="Phone number">
+                            <input type="text" class="input-large" id="temail" name="email" placeholder="Email" required="required"><br><br>
+                            <input type="text" class="input-large" id="taddress" name="address" placeholder="Address" required="trequired" style='width:100%'><br><br>
+                            <textarea class="input-xlarge" id="tMessage" name="Message" placeholder="Messages" style='width:100%'></textarea><br><br>
+                            <center><input type ="submit" class="btn btn-light"></center>
+                        </fieldset>
+                    </form>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    
+    <div class = "modal fade" id ="Marketing" role ="dialog">
+        <div class ="modal-dialog">
+            <div class = "modal-content">
+                <div class ="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h3>Marketing Sales</h3>
+                    <p>Thank you for your interest and one of our representatives will contact you soon </p>
+                </div>
+                <div class = "modal-body">
+                    <form method="post" id="market">
+                        <fieldset>
+                            <input type="text" class="input-large" id="mname" name="name" placeholder="What is your name?" required="required">
+                            <input type="text" class="input-large" id="mcompany" name="company" placeholder="The name of your company"><br><br>
+                            <input type="text" class="input-large" id="mphone" name="phone" placeholder="Phone number">
+                            <input type="text" class="input-large" id="memail" name="email" placeholder="Email" required="required"><br><br>
+                            <input type="text" class="input-large" id="maddress" name="address" placeholder="Address" required="required" style='width:100%'><br><br>
+                            <textarea class="input-xlarge" id="mMessage" name="Message" placeholder="Messages" style='width:100%'></textarea><br><br>
+                            <center><input type ="submit" class="btn btn-light"></center>
+                        </fieldset>
+                    </form>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <!-- image map modal-->  
+    <div class = "modal fade" id ="quebec" role ="dialog">
+        <div class ="modal-dialog">
+            <div class = "modal-content">
+                <div class ="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    
+                </div>
+                <div class = "modal-body">
+                    <div class="row text-center">
+                        <div class="col-md-12 col-xs-12">
+                            <div class="service-item">
+                                <img src="img/montreal.png" alt="montreal" height="100px" align="center">
+
+                                <h3>
+                                    <strong>Official Partner</strong>
+                                </h3>
+                                <h4>
+                                <ul class="list-unstyled" style="display: inline-block;text-align: left;">
+                                    <li><i class="fa fa-phone fa-fw"></i>(514) 777-2000 <b>&nbsp;&nbsp; Sam Karanta</b></li>
+                                    <li><i class="fa fa-envelope-o fa-fw"></i><b>&nbsp;&nbsp;samk@socialboom.ca</b></li>
+                                </ul>
+                                </h4>
+                                <hr class="small">
+                                <div class="footer text-center">
+                                    <ul class="list-unstyled" style="display: inline-block;text-align: left;">
+                                            <li><i class="fa fa-phone fa-fw"></i> (514) 402-2276<b> &nbsp;&nbsp;Oleksandr Sinitsyn </b></li>
+                                            <li><i class="fa fa-phone fa-fw"></i> (438) 989-4485<b> &nbsp;&nbsp;Georgy Venik</b></li>
+                                            <li><i class="fa fa-envelope-o fa-fw"></i><b>&nbsp;&nbsp;info@socialboom.ca</b></li>
+                                            <li><i class="fa fa-skype fa-fw"></i><b>&nbsp;&nbsp;socialboominc</b></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <div class = "modal fade" id ="britishcolumbia" role ="dialog">
+        <div class ="modal-dialog">
+            <div class = "modal-content">
+                <div class ="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    
+                </div>
+                <div class = "modal-body">
+                    <div class="row text-center">
+                        <div class="col-md-12 col-xs-12">
+                            <div class="service-item">
+                                <img src="img/vancouver.jpg" alt="van" height="100px" align="center">
+
+                                <h3>
+                                    <strong> Join us!</strong>
+                                </h3>
+                                <hr class="small">
+                                <div class="footer text-center">
+                                    <ul class="list-unstyled" style="display: inline-block;text-align: left;">
+                                            <li><i class="fa fa-phone fa-fw"></i> (514) 402-2276<b> &nbsp;&nbsp;Oleksandr Sinitsyn </b></li>
+                                            <li><i class="fa fa-phone fa-fw"></i> (438) 989-4485<b> &nbsp;&nbsp;Georgy Venik</b></li>
+                                            <li><i class="fa fa-envelope-o fa-fw"></i><b>&nbsp;&nbsp;info@socialboom.ca</b></li>
+                                            <li><i class="fa fa-skype fa-fw"></i><b>&nbsp;&nbsp;socialboominc</b></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    
+    <div class = "modal fade" id ="alberta" role ="dialog">
+        <div class ="modal-dialog">
+            <div class = "modal-content">
+                <div class ="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    
+                </div>
+                <div class = "modal-body">
+                    <div class="row text-center">
+                        <div class="col-md-12 col-xs-12">
+                            <div class="service-item">
+                                <!--img src="img/vancouver.jpg" alt="van" height="100px" align="center"-->
+
+                                <h3>
+                                    <strong> Join us!</strong>
+                                </h3>
+                                <hr class="small">
+                                <div class="footer text-center">
+                                    <ul class="list-unstyled" style="display: inline-block;text-align: left;">
+                                            <li><i class="fa fa-phone fa-fw"></i> (514) 402-2276<b> &nbsp;&nbsp;Oleksandr Sinitsyn </b></li>
+                                            <li><i class="fa fa-phone fa-fw"></i> (438) 989-4485<b> &nbsp;&nbsp;Georgy Venik</b></li>
+                                            <li><i class="fa fa-envelope-o fa-fw"></i><b>&nbsp;&nbsp;info@socialboom.ca</b></li>
+                                            <li><i class="fa fa-skype fa-fw"></i><b>&nbsp;&nbsp;socialboominc</b></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+
+        </div><!-- /.modal --> <div class = "modal fade" id ="manitoba" role ="dialog">
+            <div class ="modal-dialog">
+                <div class = "modal-content">
+                    <div class ="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        
+                    </div>
+                    <div class = "modal-body">
+                        <div class="row text-center">
+                            <div class="col-md-12 col-xs-12">
+                                <div class="service-item">
+                                    <!--img src="img/vancouver.jpg" alt="van" height="100px" align="center"-->
+
+                                    <h3>
+                                        <strong> Join us!</strong>
+                                    </h3>
+                                    <hr class="small">
+                                    <div class="footer text-center">
+                                        <ul class="list-unstyled" style="display: inline-block;text-align: left;">
+                                                <li><i class="fa fa-phone fa-fw"></i> (514) 402-2276<b> &nbsp;&nbsp;Oleksandr Sinitsyn </b></li>
+                                                <li><i class="fa fa-phone fa-fw"></i> (438) 989-4485<b> &nbsp;&nbsp;Georgy Venik</b></li>
+                                                <li><i class="fa fa-envelope-o fa-fw"></i><b>&nbsp;&nbsp;info@socialboom.ca</b></li>
+                                                <li><i class="fa fa-skype fa-fw"></i><b>&nbsp;&nbsp;socialboominc</b></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        
+        </div><!-- /.modal --> 
+        <div class = "modal fade" id ="saskatchewan" role ="dialog">
+            <div class ="modal-dialog">
+                <div class = "modal-content">
+                    <div class ="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        
+                    </div>
+                    <div class = "modal-body">
+                        <div class="row text-center">
+                            <div class="col-md-12 col-xs-12">
+                                <div class="service-item">
+                                    <!--img src="img/vancouver.jpg" alt="van" height="100px" align="center"-->
+
+                                    <h3>
+                                        <strong> Join us!</strong>
+                                    </h3>
+                                    <hr class="small">
+                                    <div class="footer text-center">
+                                        <ul class="list-unstyled" style="display: inline-block;text-align: left;">
+                                                <li><i class="fa fa-phone fa-fw"></i> (514) 402-2276<b> &nbsp;&nbsp;Oleksandr Sinitsyn </b></li>
+                                                <li><i class="fa fa-phone fa-fw"></i> (438) 989-4485<b> &nbsp;&nbsp;Georgy Venik</b></li>
+                                                <li><i class="fa fa-envelope-o fa-fw"></i><b>&nbsp;&nbsp;info@socialboom.ca</b></li>
+                                                <li><i class="fa fa-skype fa-fw"></i><b>&nbsp;&nbsp;socialboominc</b></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </div><!-- /.modal --> 
+
+        <div class = "modal fade" id ="ontario" role ="dialog">
+            <div class ="modal-dialog">
+                <div class = "modal-content">
+                    <div class ="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        
+                    </div>
+                    <div class = "modal-body">
+                        <div class="row text-center">
+                            <div class="col-md-12 col-xs-12">
+                                <div class="service-item">
+                                    <img src="img/toronto.gif" alt="toronto" height="100px" align="center">
+
+                                    <h3>
+                                        <strong> Join us!</strong>
+                                    </h3>
+                                    <hr class="small">
+                                    <div class="footer text-center">
+                                        <ul class="list-unstyled" style="display: inline-block;text-align: left;">
+                                                <li><i class="fa fa-phone fa-fw"></i> (514) 402-2276<b> &nbsp;&nbsp;Oleksandr Sinitsyn </b></li>
+                                                <li><i class="fa fa-phone fa-fw"></i> (438) 989-4485<b> &nbsp;&nbsp;Georgy Venik</b></li>
+                                                <li><i class="fa fa-envelope-o fa-fw"></i><b>&nbsp;&nbsp;info@socialboom.ca</b></li>
+                                                <li><i class="fa fa-skype fa-fw"></i><b>&nbsp;&nbsp;socialboominc</b></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- /.modal-content -->
+            </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+    
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script>
+    // jQuery to collapse the navbar on scroll
+    $(window).scroll(function() {
+        if ($(".navbar").offset().top > 50) {
+            $(".navbar-fixed-top").addClass("top-nav-collapse");
+        } else {
+            $(".navbar-fixed-top").removeClass("top-nav-collapse");
+        }
+    });
+    // Scrolls to the selected menu item on the page
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    // Closes the Responsive Menu on Menu Item Click
+    $('.navbar-collapse ul li a').click(function() {
+        $('.navbar-toggle:visible').click();
+    });
+    
+    //resizable image map
+    window.onload = function () {
+        var ImageMap = function (map) {
+                var n,
+                    areas = map.getElementsByTagName('area'),
+                    len = areas.length,
+                    coords = [],
+                    previousWidth = 1080;
+                for (n = 0; n < len; n++) {
+                    coords[n] = areas[n].coords.split(',');
+                }
+                this.resize = function () {
+                    var n, m, clen,
+                        x = document.body.clientWidth / previousWidth;
+                    for (n = 0; n < len; n++) {
+                        clen = coords[n].length;
+                        for (m = 0; m < clen; m++) {
+                            coords[n][m] *= x;
+                        }
+                        areas[n].coords = coords[n].join(',');
+                    }
+                    previousWidth = document.body.clientWidth;
+                    return true;
+                };
+                window.onresize = this.resize;
+            },
+            imageMap = new ImageMap(document.getElementById('canadamap'));
+        imageMap.resize();
+    }
+    </script>
+
+    <!--Sending emails using Mandrill--> 
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>
+        $('#apply').submit(function(){
+            var name = $("#name").val();
+            var company = $("#company").val();
+            var phone = $("#phone").val();
+            var email = $("#email").val();
+            var address = $("#address").val();
+            var message = $("#Message").val();
+            var emailBody = "<b>Name: </b>" + name + 
+                            "<br><b>Company: </b>" + company +
+                            "<br><b>Phone: </b>" + phone +
+                            "<br><b>Email: </b>" + email + 
+                            "<br><b>Address: </b>" + address + 
+                            "<br><b>Message: </b>" + message;
+            $.ajax(
+            {
+                type: "POST",
+                url: "https://mandrillapp.com/api/1.0/messages/send.json",
+                data: {
+                    'key': '24i_uU7blL27V98a-Y411w',
+                    'message': {
+                        'from_email': email,
+                        'from_name': name,
+                        'headers': {
+                            'Reply-To': email
+                        },
+                        'subject': 'Apply for connection',
+                        'html': emailBody,
+                        'to': [
+                        {
+                            'email': 'info@socialboom.ca',
+                            'type': 'to'
+                        }]
+                    }
+                }
+            })
+            .done(function(response) {
+                alert('Your message has been sent. Thank you!!'); // show success message
+                $("#name").val(''); // reset field after successful submission
+                $("#company").val(''); // reset field after successful submission
+                $("#phone").val(''); // reset field after successful submission
+                $("#email").val(''); // reset field after successful submission
+                $("#address").val(''); // reset field after successful submission
+                $("#Message").val(''); // reset field after successful submission
+            })
+            .fail(function(response) {
+                alert('Please enter a correct email address.');
+            });
+            return false; // prevent page refresh   
+        });
+        $('#itSupport').submit(function(){
+            var name = $("#tname").val();
+            var company = $("#tcompany").val();
+            var phone = $("#tphone").val();
+            var email = $("#temail").val();
+            var address = $("#taddress").val();
+            var message = $("#tMessage").val();
+            var emailBody = "<b>Name: </b>" + name + 
+                            "<br><b>Company: </b>" + company +
+                            "<br><b>Phone: </b>" + phone +
+                            "<br><b>Email: </b>" + email + 
+                            "<br><b>Address: </b>" + address + 
+                            "<br><b>Message: </b>" + message;
+            $.ajax(
+            {
+                type: "POST",
+                url: "https://mandrillapp.com/api/1.0/messages/send.json",
+                data: {
+                    'key': '24i_uU7blL27V98a-Y411w',
+                    'message': {
+                        'from_email': email,
+                        'from_name': name,
+                        'headers': {
+                            'Reply-To': email
+                        },
+                        'subject': 'IT Support',
+                        'html': emailBody,
+                        'to': [
+                        {
+                            'email': 'info@socialboom.ca',
+                            'type': 'to'
+                        }]
+                    }
+                }
+            })
+            .done(function(response) {
+                alert('Your message has been sent. Thank you!!'); // show success message
+                $("#tname").val(''); // reset field after successful submission
+                $("#tcompany").val(''); // reset field after successful submission
+                $("#tphone").val(''); // reset field after successful submission
+                $("#temail").val(''); // reset field after successful submission
+                $("#taddress").val(''); // reset field after successful submission
+                $("#tMessage").val(''); // reset field after successful submission
+            })
+            .fail(function(response) {
+                alert('Please enter a correct email address.');
+            });
+            return false; // prevent page refresh   
+        });
+        $('#market').submit(function(){
+            var name = $("#mname").val();
+            var company = $("#mcompany").val();
+            var phone = $("#mphone").val();
+            var email = $("#memail").val();
+            var address = $("#maddress").val();
+            var message = $("#mMessage").val();
+            var emailBody = "<b>Name: </b>" + name + 
+                            "<br><b>Company: </b>" + company +
+                            "<br><b>Phone: </b>" + phone +
+                            "<br><b>Email: </b>" + email + 
+                            "<br><b>Address: </b>" + address + 
+                            "<br><b>Message: </b>" + message;
+            $.ajax({
+                type: "POST",
+                url: "https://mandrillapp.com/api/1.0/messages/send.json",
+                data: {
+                    'key': '24i_uU7blL27V98a-Y411w',
+                    'message': {
+                        'from_email': email,
+                        'from_name': name,
+                        'headers': {
+                            'Reply-To': email
+                        },
+                        'subject': 'Marketing Sales',
+                        'html': emailBody,
+                        'to': [
+                        {
+                            'email': 'info@socialboom.ca',
+                            'type': 'to'
+                        }]
+                    }
+                }
+            })
+            .done(function(response) {
+                alert('Your message has been sent. Thank you!!'); // show success message
+                $("#mname").val(''); // reset field after successful submission
+                $("#mcompany").val(''); // reset field after successful submission
+                $("#mphone").val(''); // reset field after successful submission
+                $("#memail").val(''); // reset field after successful submission
+                $("#maddress").val(''); // reset field after successful submission
+                $("#mMessage").val(''); // reset field after successful submission
+            })
+            .fail(function(response) {
+                alert('Please enter a correct email address.');
+            });
+            return false; // prevent page refresh   
+        });
+    </script>
+</body>
+
+</html>
